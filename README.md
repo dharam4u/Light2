@@ -1,2 +1,2 @@
-# The Name of My App
+# Light
 The app used to display the light when touching the screen.
